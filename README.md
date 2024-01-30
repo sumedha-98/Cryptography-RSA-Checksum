@@ -11,3 +11,5 @@ verification_failures.log
 checksum_failures.log
 4. Introduce an artificial “delay” for writing to the log file, the duration will be passed as a command line
 argument (in seconds)
+
+This project needs to be run on Linux environment. The start point of the project is verify.py so verify.py needs to be run.
